@@ -1,6 +1,6 @@
 # CSetting 
 
-Librairy qui simplifie la gestion des fichier .ini pour un logiciel C++ developper avec le frawork QT 
+Librairie qui simplifie la gestion des fichiers .ini pour un logiciel C++ développé avec le framework Qt.
 
 ## Methode 
 
